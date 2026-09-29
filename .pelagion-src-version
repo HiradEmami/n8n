@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "recorded_at_utc": "2026-09-29T10:07:26+00:00",
+  "purpose": "Immutable initial Pelagion takeover source baseline",
+  "feature_branch": "feat/init-pelagion-takeover",
+  "upstream": {
+    "repository": {
+      "id": 193215554,
+      "node_id": "MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=",
+      "name": "n8n",
+      "full_name": "n8n-io/n8n",
+      "html_url": "https://github.com/n8n-io/n8n",
+      "clone_url": "https://github.com/n8n-io/n8n.git",
+      "default_branch": "master",
+      "created_at": "2019-06-22T09:24:21Z",
+      "updated_at": "2026-09-29T09:50:39Z",
+      "pushed_at": "2026-09-29T09:51:49Z",
+      "fork": false,
+      "private": false,
+      "size": 644365
+    },
+    "branch": "master",
+    "commit": {
+      "sha": "6cc8c0d4480b4a7a0ea44d38655060325fe939f7",
+      "tree_sha": "c53d1ba807a207111d7e8e012328f69d76b9a51e",
+      "author_timestamp": "2026-09-29T09:41:25Z",
+      "committer_timestamp": "2026-09-29T09:41:25Z",
+      "subject": "feat(ai-builder): Change knowledge subtitle (#39838)",
+      "reachable_commit_count": 24983,
+      "exact_tags": [],
+      "describe": "beta-23-g6cc8c0d448",
+      "declared_versions": {
+        "package.json": "2.42.0"
+      }
+    }
+  },
+  "fork": {
+    "repository": {
+      "id": 1393790927,
+      "node_id": "R_kgDOUxOPzw",
+      "name": "n8n",
+      "full_name": "HiradEmami/n8n",
+      "html_url": "https://github.com/HiradEmami/n8n",
+      "clone_url": "https://github.com/HiradEmami/n8n.git",
+      "default_branch": "master",
+      "created_at": "2026-09-28T20:23:57Z",
+      "updated_at": "2026-09-28T20:23:57Z",
+      "pushed_at": "2026-09-28T20:22:28Z",
+      "fork": true,
+      "private": false,
+      "size": 640437
+    },
+    "branch": "master",
+    "commit": {
+      "sha": "6cc8c0d4480b4a7a0ea44d38655060325fe939f7",
+      "tree_sha": "c53d1ba807a207111d7e8e012328f69d76b9a51e",
+      "author_timestamp": "2026-09-29T09:41:25Z",
+      "committer_timestamp": "2026-09-29T09:41:25Z",
+      "subject": "feat(ai-builder): Change knowledge subtitle (#39838)",
+      "reachable_commit_count": 24983,
+      "exact_tags": [],
+      "describe": "beta-23-g6cc8c0d448",
+      "declared_versions": {
+        "package.json": "2.42.0"
+      }
+    },
+    "previous_remote_commit": "310635e7d5c56947f399c35d8d2972765a01b90a"
+  },
+  "network_source": {
+    "id": 193215554,
+    "node_id": "MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=",
+    "name": "n8n",
+    "full_name": "n8n-io/n8n",
+    "html_url": "https://github.com/n8n-io/n8n",
+    "clone_url": "https://github.com/n8n-io/n8n.git",
+    "default_branch": "master",
+    "created_at": "2019-06-22T09:24:21Z",
+    "updated_at": "2026-09-29T09:50:39Z",
+    "pushed_at": "2026-09-29T09:51:49Z",
+    "fork": false,
+    "private": false,
+    "size": 644365
+  },
+  "feature_base_commit": "6cc8c0d4480b4a7a0ea44d38655060325fe939f7",
+  "source_observed_at_utc": "2026-09-29T10:00:49+00:00",
+  "historical_fork_creation_commit": null,
+  "notes": [
+    "The GitHub repository ID and node ID identify each repository, not a commit.",
+    "Reachable commit count is a history count, not a release number. Exact tags and declared package versions may be absent.",
+    "GitHub creation timestamps do not establish the original fork-creation commit.",
+    "This baseline does not update automatically after later merges. Git history preserves subsequent edits.",
+    "The feature commit containing this file is recorded in Git history; it cannot contain its own hash."
+  ]
+}
